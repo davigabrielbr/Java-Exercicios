@@ -1,4 +1,4 @@
-# JavaExercicios
+# Java-Exercicios
 
 🧠 Exercícios de Java
 
@@ -50,6 +50,9 @@ Construtores
 🧑‍💻 Autor
 
 Davi Gabriel
+
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+
 💼 Apaixonado por tecnologia e aprendizado contínuo
+
 📫 davigabrielbr
