@@ -6,7 +6,7 @@ public class Cachorro {
     private int idade;
 
     public void mostrarInfo() {
-        System.out.println("Nome: " + this.idade);
+        System.out.println("Nome: " + this.nome);
         System.out.println("Raça: " + this.raca);
         System.out.println("Idade: " + this.idade);
     }
