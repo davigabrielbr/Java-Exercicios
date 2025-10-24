@@ -1,4 +1,4 @@
-package POO;
+package POO.Banco;
 
 public class ClienteBanco {
     public static void main(String[] args) {
