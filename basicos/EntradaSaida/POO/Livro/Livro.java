@@ -1,4 +1,4 @@
-package POO.Livro;
+package Livro;
 
 public class Livro {
     public static void main(String[] args) {

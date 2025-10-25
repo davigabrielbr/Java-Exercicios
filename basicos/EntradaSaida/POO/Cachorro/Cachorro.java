@@ -1,4 +1,4 @@
-package POO;
+package Cachorro;
 
 public class Cachorro {
     private String nome;

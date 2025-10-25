@@ -1,4 +1,4 @@
-package POO.PraticandoGettersSterres;
+package PraticandoGettersSterres;
 
 public class CanetaGettersSetters {
     private String modelo;

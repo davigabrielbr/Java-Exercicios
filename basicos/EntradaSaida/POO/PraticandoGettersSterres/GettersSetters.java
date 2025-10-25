@@ -1,4 +1,4 @@
-package POO.PraticandoGettersSterres;
+package PraticandoGettersSterres;
 
 public class GettersSetters {
     public static void main(String[] args) {

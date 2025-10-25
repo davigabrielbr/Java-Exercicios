@@ -1,4 +1,4 @@
-package POO;
+package Pessoa;
 
 public class ExercicioAula04 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package POO.ContaBancariaExercicio;
+package ContaBancariaExercicio;
 
 public class ContaBanco {
     public int numeroConta;

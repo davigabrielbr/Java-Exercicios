@@ -1,4 +1,4 @@
-package POO.Livro;
+package Livro;
 
 public class CriandoLivro {
     String titulo;

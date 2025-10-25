@@ -1,4 +1,4 @@
-package POO.Banco;
+package Banco;
 
 public class ContaBancaria {
     private String titular;

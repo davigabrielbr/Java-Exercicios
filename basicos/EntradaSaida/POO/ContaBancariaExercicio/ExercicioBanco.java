@@ -1,4 +1,4 @@
-package POO.ContaBancariaExercicio;
+package ContaBancariaExercicio;
 
 public class ExercicioBanco {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package POO.Celular;
+package Celular;
 
 public class Celular {
     private String marca;
