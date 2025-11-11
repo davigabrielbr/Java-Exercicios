@@ -10,7 +10,7 @@ public class Lutador {
     private float peso;
     private String categoria;
     private int vitorias, derrotas, empates;
-    
+
     // Métodos Públicos 
 
     public void apresentar() {
@@ -42,7 +42,6 @@ public class Lutador {
     public void empatarLuta() {
         this.setEmpates(this.getEmpates() + 1);
     }
-
 
     // Métodos Especiais
 

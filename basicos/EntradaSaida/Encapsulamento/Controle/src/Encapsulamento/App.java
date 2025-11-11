@@ -4,8 +4,9 @@ public class App {
     public static void main(String[] args) {
         ControleRemoto controle = new ControleRemoto();
         controle.ligar();
-        controle.play();
         controle.maisVolume();
+        controle.play();
+        controle.menosVolume();
         controle.abrirMenu();
     }
 }
