@@ -6,8 +6,12 @@ public class App {
         Canguru c = new Canguru();
         Cachorro k = new Cachorro();
         Reptil r = new Reptil();
+        Cobra cr = new Cobra();
+        Tartaruga t = new Tartaruga();
         Peixe p = new Peixe();
+        Goldfish g = new Goldfish();
         Ave a = new Ave();
+        Arara ae = new Arara();
 
         // Polimorfismo
 
@@ -53,5 +57,10 @@ public class App {
         r.locomover();  // Rastejando 
         r.alimentar();  // Comendo vegetais
         r.emitirSom();  // Som de reptil
+
+        cr.locomover(); 
+        t.locomover();
+        g.locomover();
+        ae.locomover();
     }
 }
