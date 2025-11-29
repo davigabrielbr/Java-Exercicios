@@ -5,18 +5,10 @@ public abstract class Animal {
     protected int idade;
     protected int membros;
     
-    public void locomover() {
-
-    }
-
-    public void alimentar() {
-
-    }
-
-    public void emitirSom() {
-
-    }
-
+    public abstract void locomover();
+    public abstract void alimentar();
+    public abstract void emitirSom();
+    
     public float getPeso() {
         return peso;
     }
